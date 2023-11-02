@@ -44,5 +44,12 @@ network.
 Protect your public IP resources in the virtual network from distributed
 denial of service attacks.
 
-<img src="./media/image1.png"
-style="width:6.26806in;height:1.84225in" />
+![image](https://github.com/Yogeeswarvk/WMCTC/assets/126942451/f1e9d85f-f7e7-4f0f-9192-bb04926c0464)
+
+
+![image](https://github.com/Yogeeswarvk/WMCTC/assets/126942451/bc436a46-ebb5-4c63-913c-103344ed24ca)
+
+
+
+![image](https://github.com/Yogeeswarvk/WMCTC/assets/126942451/2c5d800a-5ebf-46e7-aa08-3d705d86abda)
+
